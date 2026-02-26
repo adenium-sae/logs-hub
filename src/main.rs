@@ -1,3 +1,4 @@
+mod app;
 mod core;
 mod bootstrap;
 mod routes;
